@@ -1,6 +1,6 @@
 ## Hi, I´m Ana!
-- 🔭 Developer and Cibersecurity
-- 🌱 Studying Java,JavaScript,Python,SQL,Security Development 
+- 🔭 Developer
+- 🌱 Studying Java,JavaScript,Python,SQL,Security Development,Cloud 
 - 💬 Passionate about Technology,Cinema
 
 Languages and Tools
